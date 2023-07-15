@@ -4,7 +4,12 @@
 
 BashUpdater is a compilation of updating bash scripts
 
+-----------------------
+### How to use this?
 
+```$ sudo ./updateDebian.sh```
+
+-----------------------
 ### Supported Oses
 
 |  Linux  | OtherOses   |  Pkgs |
@@ -19,3 +24,8 @@ BashUpdater is a compilation of updating bash scripts
 |  Solus  |
 |  Turbo  |
 |  Ubuntu |
+
+-----------------------
+### License 
+
+GPLv3 or later
