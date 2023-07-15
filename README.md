@@ -4,14 +4,17 @@
 
 BashUpdater is a compilation of updating bash scripts
 
-|  Linux  | OtherOses   | 
-| ------- | ----------- | --- |
-|  Alpine |   Freebsd   |
-|   Arch  |   HaikuOs   |
-|   Crux  | OpenIndiana |
-|  Debian |
-|  Fedora |
-|  Gentoo |
+
+### Supported Oses
+
+|  Linux  | OtherOses   |  Pkgs |
+| ------- | ----------- | ----- |
+|  Alpine |   Freebsd   | Cargo |
+|   Arch  |   HaikuOs   | Flatpak |
+|   Crux  | OpenIndiana | Npm |
+|  Debian |             | Pip |
+|  Fedora |             | RubyGems |
+|  Gentoo |             | Snap |
 | OpenSuse|
 |  Solus  |
 |  Turbo  |
