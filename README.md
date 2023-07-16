@@ -24,6 +24,7 @@ BashUpdater is a compilation of updating bash scripts
 |  Solus  |
 |  Turbo  |
 |  Ubuntu |
+|  Void   |
 
 -----------------------
 ### License 
