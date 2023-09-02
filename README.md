@@ -7,6 +7,8 @@ BashUpdater is a compilation of updating bash scripts
 -----------------------
 ### How to use this?
 
+```$ git clone https://github.com/IUseDebianBtw/BashUpdater.git```
+
 ```$ sudo ./updateDebian.sh```
 
 -----------------------
